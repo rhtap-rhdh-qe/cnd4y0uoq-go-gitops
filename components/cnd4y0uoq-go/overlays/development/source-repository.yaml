@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cnd4y0uoq-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cnd4y0uoq-go
